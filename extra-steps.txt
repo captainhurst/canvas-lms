@@ -1,0 +1,9 @@
+rake db:create
+rake db:initial_setup
+rake canvas:compile_assets
+
+Terminal 1
+webpack
+
+Terminal 2
+rails server

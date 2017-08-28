@@ -8,9 +8,12 @@
   "dependencies": {
     "brandable_css": "0.0.71",
     "canvas_offline_course_viewer": "https://github.com/instructure/canvas_offline_course_viewer.git#1.1.0",
+    "coffee-script": "^1.6.2",
     "fullcalendar": "https://github.com/ryankshaw/fullcalendar.git#aa686b36d10cee1e1e3ec7c7784145e46667d47d",
     "instructure-icons": "4.2.0",
-    "tinymce": "4.5.7"
+    "node-sass": "^4.5.3",
+    "tinymce": "4.5.7",
+    "webpack": "^2.2.1"
   },
   "devDependencies": {
     "axe-core": "2.1.7",
@@ -31,7 +34,7 @@
     "canvas-rce": "2.2.1",
     "classnames": "~2.2.5",
     "coffee-loader": "^0.7.2",
-    "coffee-script": "1.12.2",
+    "coffee-script": "1.6.2",
     "color-slicer": "0.8.0",
     "core-js-builder": "^2.4.1",
     "css-loader": "0.26.1",
